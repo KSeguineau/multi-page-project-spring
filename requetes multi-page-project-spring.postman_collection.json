@@ -22,7 +22,7 @@
 					"raw": "[\"toto\",\"tata\",\"titi\"]"
 				},
 				"url": {
-					"raw": "http://localhost:8080/test1",
+					"raw": "https://multi-page-project-spring.herokuapp.com/test1",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -41,7 +41,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/test2",
+					"raw": "https://multi-page-project-spring.herokuapp.com/test2",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -60,7 +60,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/test1",
+					"raw": "https://multi-page-project-spring.herokuapp.com/test1",
 					"protocol": "http",
 					"host": [
 						"localhost"
